@@ -6,7 +6,7 @@
  * @parent: parent node of the node to create.
  * @value: value of the node to create.
  *
- * Retrun: binary_tree_t
+ * Return: binary_tree_t
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
